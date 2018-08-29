@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: e6bab8157141322408fe4c4fa1f7153b
+  productGUID: 0905f351780c89840b4a27ecf388da0a
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: New Unity Project at home trying 8-26
+  productName: New Unity Project
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -648,8 +648,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 09bf4c61-3e1a-4904-9b01-c0fe4a804321
-  projectName: New Unity Project at home trying 8-26
+  cloudProjectId: 244cb128-1349-4c0c-967b-7ce603f4de9f
+  projectName: New Unity Project (1)
   organizationId: dancingmongoose
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
