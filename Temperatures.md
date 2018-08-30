@@ -11,3 +11,5 @@
 | 8-26 | Sunday    | 17   | 05  |
 | 8-27 | Monday    | 98   | 17  |
 | 8-28 | Tuesday   | 77   | 60  |
+| 8-29 | Wednesday | 109  | 53  |
+| 8-30 | Thursday  | 99   | 59  |
