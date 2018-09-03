@@ -15,3 +15,5 @@
 | 8-30 | Thursday  | 99   | 59  |
 | 8-31 | Friday    | 130  | 99  |
 | 9-1  | Saturday  | 56   | 45  |
+| 9-2  | Sunday    | 86   | 53  |
+:snail: Cassie was here 
