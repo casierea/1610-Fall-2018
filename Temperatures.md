@@ -19,3 +19,4 @@
 :snail:| Cassie was here 
 | 9-3  | Monday    | 99   | 47  |
 | 9-4  | Tuesday   | 87   | 58  |
+| 9-5  | Wednesday | 89   | 56  |
