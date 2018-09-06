@@ -16,7 +16,7 @@
 | 8-31 | Friday    | 130  | 99  |
 | 9-1  | Saturday  | 56   | 45  |
 | 9-2  | Sunday    | 86   | 53  |
-:snail:| Cassie was here 
+:snail:| Casie was here 
 | 9-3  | Monday    | 99   | 47  |
 | 9-4  | Tuesday   | 87   | 58  |
 | 9-5  | Wednesday | 89   | 56  |
