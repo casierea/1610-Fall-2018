@@ -20,3 +20,5 @@
 | 9-3  | Monday    | 99   | 47  |
 | 9-4  | Tuesday   | 87   | 58  |
 | 9-5  | Wednesday | 89   | 56  |
+| 9-6  | Thursday  | 99   | 15  |
+| 9-8    Friday      79     77
