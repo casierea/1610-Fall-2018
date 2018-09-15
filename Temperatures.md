@@ -23,3 +23,10 @@
 | 9-6  | Thursday  | 99   | 15  |
 | 9-7  | Friday    | 79   | 77  |
 | 9-8  | Saturday  | 89   | 56  |
+| 9-9  | Sunday    | 90   | 49  |
+| 9-10 | Monday    | 89   | 58  |
+| 9-11 | Tuesday   | 80   | 56  |
+| 9-12 | Wednesday | 76   | 49  |
+| 9-13 | Thursday  | 74   | 50  |
+| 9-14 |  Friday   | 78   | 70  |
+| 9-15 | Saturday  | 109  | 13  |
