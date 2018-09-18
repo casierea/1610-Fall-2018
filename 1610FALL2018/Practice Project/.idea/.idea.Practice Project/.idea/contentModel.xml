@@ -8,6 +8,7 @@
         <e p="Bird.cs" t="Include" />
         <e p="Bubbles.cs" t="Include" />
         <e p="Duck.cs" t="Include" />
+        <e p="UpdateFunction.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
       <e p="obj" t="ExcludeRecursive" />

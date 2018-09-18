@@ -2,15 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Animal : MonoBehaviour {
-
+public class TransformObject : MonoBehaviour
+{
+	public Vector3 Movement;
+	
 	// Use this for initialization
 	void Start () {
-		print("I am an animal.");
+		
 	}
 	
 	// Update is called once per frame
-	void Update () {
-		
+	void Update ()
+	{
+		transform.Translate(Movement);
 	}
 }
