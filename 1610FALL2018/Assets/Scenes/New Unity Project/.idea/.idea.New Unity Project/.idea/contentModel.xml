@@ -12,7 +12,6 @@
           <e p="MyFirstScript.cs" t="Include" />
           <e p="ShipStats.cs" t="Include" />
         </e>
-        <e p="RainbowFlash.cs" t="Include" />
         <e p="TransformObject.cs" t="Include" />
       </e>
       <e p="Library" t="ExcludeRecursive" />
