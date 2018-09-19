@@ -14,6 +14,7 @@ public class TransformObject : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		transform.Translate(Movement);
+		//transform.Translate(Movement);
+		transform.Rotate(Movement);
 	}
 }
