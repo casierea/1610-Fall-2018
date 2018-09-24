@@ -33,3 +33,7 @@
 | 9-16 | Sunday    | 99   | 78  |
 | 9-17 | Monday    | 100  | 45  |
 | 9-18 | Tuesday   | 90   | 48  |
+| 9-19 | Wednesday | 78   | 56  |
+| 9-20 | Thursday  | 72   | 45  |
+| 9-21 | Friday    | 74   | 8   |
+| 9-22 | Saturday  | 78   | 70  |
