@@ -1,13 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
-public class Kitten : MonoBehaviour {
+[CreateAssetMenu]
+public class MovePattern : ScriptableObject
+{
 
 	// Use this for initialization
-	void Start ()
-	{
-		print("I am a kitten. I also meow.");
+	void Start () {
+		
 	}
 	
 	// Update is called once per frame

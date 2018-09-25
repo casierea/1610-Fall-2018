@@ -192,8 +192,9 @@ GameObject:
   - component: {fileID: 494252528}
   - component: {fileID: 494252527}
   - component: {fileID: 494252532}
+  - component: {fileID: 494252533}
   m_Layer: 0
-  m_Name: Kitten
+  m_Name: MonsterUnderTheBed
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -290,6 +291,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Movement: {x: 9, y: 3, z: 0}
+--- !u!114 &494252533
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 494252526}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 449ff4e53bfe30848b87c771d8b34880, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &552726442
 GameObject:
   m_ObjectHideFlags: 0
