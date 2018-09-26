@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Animal : MonoBehaviour {
+public class Animal01 : MonoBehaviour {
 
 	// Use this for initialization
 	void Start ()
 	{
-		print("i am an animal."); 
+		print(" I am an amimal.");
 	}
 	
 	// Update is called once per frame
