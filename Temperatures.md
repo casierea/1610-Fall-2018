@@ -37,3 +37,5 @@
 | 9-20 | Thursday  | 72   | 45  |
 | 9-21 | Friday    | 74   | 8   |
 | 9-22 | Saturday  | 78   | 70  |
+| 9-23 | Saunday   | 23   | 25  |
+| 9-24 | Monday    | 90   | 10  |
